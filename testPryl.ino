@@ -1,3 +1,5 @@
+// Du är en pruttkorv
+
 void setup() {
   pinMode(6, OUTPUT);
   pinMode(7, OUTPUT);
