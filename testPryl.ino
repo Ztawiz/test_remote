@@ -1,4 +1,4 @@
-// Du är en pruttkorv
+// Du är en pruttkorv, en riktig pruttkorv!
 
 void setup() {
   pinMode(6, OUTPUT);
